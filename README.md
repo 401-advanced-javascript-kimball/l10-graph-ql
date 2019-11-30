@@ -19,7 +19,6 @@
 * [swagger](https://herokuapp.com/doc)
 * [jsdocs](https://401-advanced-javascript-kimball.github.io/l10-graph-ql/)
 
-
 ### Modules
 
 ### Setup
