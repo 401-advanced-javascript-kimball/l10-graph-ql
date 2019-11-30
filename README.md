@@ -5,7 +5,8 @@
 ### Author: Jonathan Kimball
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-kimball/l10-graph-ql/pull/1)
+
+* [submission PR](https://github.com/401-advanced-javascript-kimball/l10-graph-ql/pull/2)
 * [travis](https://travis-ci.com/401-advanced-javascript-kimball/l10-graph-ql)
 * [Heroku](https://jk-401-lab10.herokuapp.com/)
 
@@ -18,13 +19,7 @@
 * [swagger](https://herokuapp.com/doc)
 * [jsdocs](https://401-advanced-javascript-kimball.github.io/l10-graph-ql/)
 
-
 ### Modules
-#### categories-schema.js
-#### product-schema.js
-#### data-model.js
-#### products.js --extends dataModel
-#### categories.js --extends dataModel
 
 ### Setup
 #### `.env` requirements
